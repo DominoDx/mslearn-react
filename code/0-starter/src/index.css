@@ -1,0 +1,10 @@
+body {
+    background-color: greenyellow;
+}
+article {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    color: rebeccapurple;
+}
